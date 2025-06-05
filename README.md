@@ -31,10 +31,6 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-
-
-## &#x1f4c8; GitHub Stats
-
 <!--
 **MintaekCho/MintaekCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
