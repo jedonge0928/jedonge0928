@@ -1,9 +1,7 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome
-<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /></h2>
+<h2>Welcome</h2>
 
 <p align='center'>
  <b>✌Hello! I'm Front-end Developer🎉</b>
- <br>
 </p>
 
 ## 🔥Technologies & Tools
