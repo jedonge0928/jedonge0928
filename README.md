@@ -4,7 +4,6 @@
 <p align='center'>
  <b>✌Hello! I'm Front-end Developer🎉</b>
  <br>
-<img src="https://blog.kakaocdn.net/dn/Vc7dm/btrYjDlY9KT/GITlNuK465KIPH3GgB1KA0/img.png">
 </p>
 
 ## 🔥Technologies & Tools
@@ -24,18 +23,7 @@
 
 <br />
 
-<div align = center>
- <h3>Back-end</h3>
-</div>
-<div align = center>
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
-<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</div>
 
-<br />
 
 <div align = center>
  <h3>Collaboration</h3>
@@ -47,19 +35,9 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-## :memo: Blog
- 
-[벨로그](https://velog.io/@richdad6208)
-<br />
+
 
 ## &#x1f4c8; GitHub Stats
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
-<a href="https://github.com/richdad6208/richdad6208">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=richdad6208&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="richdad6208's GitHub Stats" />
-</a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richdad6208&layout=compact&count_private=true&theme=gruvbox" />
 
 <!--
 **MintaekCho/MintaekCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
