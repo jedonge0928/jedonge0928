@@ -45,3 +45,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🧩 Collaboration Projects
+
+### 🏀 playHive (스포츠 커뮤니티)
+- **설명**: 스포츠를 좋아하는 사람들을 위한 커뮤니티 플랫폼  
+  실시간 데이터 업로드, 뉴스 및 메뉴 연동, 반응형 구조 구현
+- **기술**: React, TypeScript, Firebase, Styled-components
+- **역할**:  
+  - 커뮤니티 게시판 UI 개발  
+  - 뉴스 데이터 및 메뉴 데이터 연동  
+  - 게시글 작성 및 필터 기능 구현  
+  - 반응형 대응 설계 및 구현
+- [🔗 GitHub 링크](https://github.com/jedonge0928/web)
+
+---
+
